@@ -1,0 +1,19 @@
+{
+  "name": "studiostylestoCodeMirror",
+  "version": "0.0.1",
+  "description": "generate code mirror style from studiostyl.es",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "lodash-node": "~2.4.1",
+    "superagent": "~0.17.0",
+    "cheerio": "~0.13.1",
+    "lingo": "0.0.5",
+    "nomnom": "^1.6.2",
+    "less": "^1.7.0"
+  }
+}
